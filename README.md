@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Deepalakshmi
 
-<!--
-**deepalakshmis13/deepalakshmis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
+💻 Aspiring Software Engineer
+🚀 Passionate about Full-Stack Development & AI-driven solutions
 
-Here are some ideas to get you started:
+##🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enhancing full-stack applications with FastAPI & React
+
+Strengthening Data Structures & Problem Solving
+
+##🛠 Tech Stack
+
+Languages: Python, Java, C
+Web & Frameworks: FastAPI, React, Streamlit
+Databases: MongoDB, MySQL, SQLite
+Tools: Git, GitHub, VS Code, Vercel
+
+##🏆 Highlights
+
+🥇 Idea Spark Award – 24-Hour SDG Hackathon
+
+🚆 Smart India Hackathon Project – OptiRail
+
+🤖 Built AI-powered Telegram Vehicle Management Bot
+
+🍽 Developed SmartPlate – Food Redistribution Platform
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/deepalakshmi-suresh-kumar-87b92932a/
+
+📧 Email: sdeepalakshmi13@gmail.com
