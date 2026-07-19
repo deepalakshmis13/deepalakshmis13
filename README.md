@@ -12,6 +12,8 @@
 - ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/deepalakshmis)
 
+![HackerRank](https://img.shields.io/badge/HackerRank-5★-brightgreen?logo=hackerrank)
+
 🔭**Currently Working On**
 
 Enhancing full-stack applications with FastAPI & React
