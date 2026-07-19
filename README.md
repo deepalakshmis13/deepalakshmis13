@@ -9,6 +9,9 @@
 - LeetCode: [https://leetcode.com/your-username/](https://leetcode.com/u/deepalakshmis/)
 - HackerRank:[ https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/sdeepalakshmi13)
 
+- ## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/deepalakshmis)
+
 🔭**Currently Working On**
 
 Enhancing full-stack applications with FastAPI & React
