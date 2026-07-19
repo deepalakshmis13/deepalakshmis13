@@ -4,6 +4,11 @@
 💻 Aspiring Software Engineer
 🚀 Passionate about Full-Stack Development & AI-driven solutions
 
+## 💻 Coding Profiles
+
+- LeetCode: [https://leetcode.com/your-username/](https://leetcode.com/u/deepalakshmis/)
+- HackerRank:[ https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/sdeepalakshmi13)
+
 🔭**Currently Working On**
 
 Enhancing full-stack applications with FastAPI & React
