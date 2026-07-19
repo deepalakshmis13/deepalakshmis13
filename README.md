@@ -12,7 +12,9 @@
 - ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/deepalakshmis)
 
-![HackerRank](https://img.shields.io/badge/HackerRank-5★-brightgreen?logo=hackerrank)
+##📊 Hackerrank
+<img width="1027" height="717" alt="image" src="https://github.com/user-attachments/assets/f93d9d1d-7080-4f55-b110-2af8745c7c42" />
+
 
 🔭**Currently Working On**
 
